@@ -1,4 +1,4 @@
-# Akshay Sriram - Attendance
+# Akshay Sriram 
 
 ## Introduction
 Hi! I'm Akshay Sriram from Hyderabad, India. I'm a CS + AI/DS 
